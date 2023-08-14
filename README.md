@@ -12,5 +12,3 @@
 
 Dev Info: 
 Niteen Pawar - niteenpawar2000@gmail.com
-
-Dhruevsh Panchal - dhruveshpanchal36@gmail.com
